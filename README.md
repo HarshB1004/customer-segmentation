@@ -22,7 +22,6 @@ The project uses the <b>K-Means Clustering algorithm</b> to segment customers ba
   <li>Model Evaluation using Silhouette Score</li>
 </ul>
 <hr>
-
 <h2>🖥️ Tech Stack</h2>
 <ul>
   <li>Python</li>
