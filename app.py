@@ -7,7 +7,7 @@ import joblib
 
 # Page configuration
 st.set_page_config(
-    page_title="Customer Segmentation",
+    page_title=" 📊Customer Segmentation",
     layout="wide"
 )
 
